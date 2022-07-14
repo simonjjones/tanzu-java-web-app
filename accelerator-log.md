@@ -4,7 +4,7 @@
 ```json
 {
   "projectName" : "tanzu-java-web-app",
-  "repositoryPrefix" : "dev.local"
+  "repositoryPrefix" : " tapacr.azurecr.io/buildteam-showcase/apps-13-07-2022-20-57-54-577247893"
 }
 ```
 ## Log
@@ -93,7 +93,7 @@
 ┃ ┃ ┃ ┃ ┃ ┃ ┏ engine.transformations[0].validated.merge.transformations[0].sources[1].<combo>.transformations[1].transformations[0] (ReplaceText)
 ┃ ┃ ┃ ┃ ┃ ┃ ┗  Info Will replace [tanzu-java-web-app->tanzu-java-web-app]
 ┃ ┃ ┃ ┃ ┃ ┃ ┏ engine.transformations[0].validated.merge.transformations[0].sources[1].<combo>.transformations[1].transformations[1] (ReplaceText)
-┃ ┃ ┃ ┃ ┗ ┗ ┗  Info Will replace [your-registry.io/project->dev.local]
+┃ ┃ ┃ ┃ ┗ ┗ ┗  Info Will replace [your-registry.io/project-> tapacr.azurecr.io/b...(truncated)]
 ┃ ┃ ┃ ┃ ┏ engine.transformations[0].validated.merge.transformations[0].sources[2] (Combo)
 ┃ ┃ ┃ ┃ ┃  Info Combo running as Chain(Include, Chain(chain))
 ┃ ┃ ┃ ┃ ┃ engine.transformations[0].validated.merge.transformations[0].sources[2].<combo> (Chain)
